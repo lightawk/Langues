@@ -1,4 +1,15 @@
-1. うちに(前に)             -> tant que ~ avant que ~
-2. 間に                   -> pendant que ~
-3. でからでないと…でからでなければ -> a moins que ~ ne peut pas etre fait non plus (phrases negatives)
-4. ところ                  -> sur le point de ~
+1. うちに(前に) [ tant que ~ avant que ~ ]
+明るいうちに庭の掃除をしてしまお。
+Nettoyons le jardin [ tant qu'il ] fait encore jour.
+
+2. 間に [ pendant que ~ ]
+私が旅行で留守の間、うちの犬の世話をお願いできないでしょうか。
+Pourriez-vous s'il vous plaît prendre soin de mon chien [ pendant que ] je suis en voyage ?
+
+3. でからでないと…でからでなければ [ a moins que ~ ne peut pas etre fait non plus (dans les phrases negatives) ]
+運転免許を取ってからでなければ車を運転してはいけない。
+Vous [ ne devez pas ] conduire une voiture [ tant que ] vous n’avez pas obtenu un permis de conduire.
+
+4. ところ [ sur le point de ~ ]
+試験中、となりの人の答えを見ているところを先生に注意された。
+Pendant l'examen, le professeur m'a grondé parce que j'avais regardé les réponses de la personne à côté de moi.

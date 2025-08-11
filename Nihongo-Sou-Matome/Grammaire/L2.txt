@@ -1,5 +1,19 @@
-1. とおり(に)      -> comme, suivant
-2. によって、によっては -> selon ~
-3. たびに         -> chaque fois que
-4. ほど          -> le plus ~ le plus
-5. ついでに       -> faire en même temps que ~
+1. とおり(に) [ comme, suivant ]
+初めて作る料理だから、この本に書いてあるとおりのやり方で作ってみよう。
+Comme c'est la première fois que je prépare ce plat, je vais essayer de le faire exactement [ comme ] indiqué dans le livre.
+
+2. によって、によっては [ selon ~ ]
+国によって習慣が違う。
+[ Selon ] les pays, les habitudes changent. Les coutumes varient d'un pays a l'autre.
+
+3. たびに [ chaque fois que ~ ]
+このチームは試合のたびに強くなっていく。
+Cette équipe devient plus forte à [ chaque ] match.
+
+4. ほど [ le plus ~ le plus ]
+物が増えれば増えるほど、整理が大変になる。
+Plus vous avez de choses, plus il devient difficile de les ranger.
+
+5. ついでに [ faire en même temps que ~ ]
+散歩のついでにこのはがきをポストに出してきて。
+Veuillez déposer cette carte postale dans la boîte aux lettres [ lorsque ] vous êtes en promenade.
